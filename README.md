@@ -7,4 +7,4 @@
 
 ![ScreenShot](./assets/images/ScreenShot.jpg)
 
-![alt text](https://willisson7.github.io/Password-Generator/)
+[https://willisson7.github.io/Password-Generator/]
